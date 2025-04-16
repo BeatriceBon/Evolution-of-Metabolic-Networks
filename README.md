@@ -1,5 +1,5 @@
 # Evolution-of-Metabolic-Networks
-The objective of was to investigate whether it's possible to find an evolutionary pathway between two different organisms with distinct metabolites and reactions using a Genetic algorithm.
+The objective was to investigate whether it's possible to find an evolutionary pathway between two different organisms with distinct metabolites and reactions using a Genetic algorithm.
 
 
 In this project, we aim to use evolutionary algorithms, such as the genetic algorithm, to explore the genetic connections between different organisms, specifically bacteria. The objective is to trace a viable evolutionary path from one bacterium, for example, E. coli, to another, such as Salmonella. This objective is based on the understanding that all organisms are related by genetic lineage, and our goal is to map out a feasible route of evolution between them.
