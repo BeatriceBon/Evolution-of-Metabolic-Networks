@@ -1,4 +1,4 @@
-# Evolution-of-Metabolic-Networks
+# Modeling the Evolution of Metabolic Networks Using a Genetic Algorithm
 The objective was to investigate whether it's possible to find an evolutionary pathway between two different organisms with distinct metabolites and reactions using a Genetic algorithm.
 
 
